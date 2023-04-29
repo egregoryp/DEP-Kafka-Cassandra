@@ -1,0 +1,247 @@
+Country Code,Country Name,Value
+ARB,Arab World,342077516.074643
+CSS,Caribbean small states,6802199
+EAS,East Asia & Pacific (all income levels),2172955169.8192
+EAP,East Asia & Pacific (developing only),1934412005
+EMU,Euro area,329523413
+ECS,Europe & Central Asia (all income levels),883505125
+ECA,Europe & Central Asia (developing only),401978952
+EUU,European Union,498979701
+HPC,Heavily indebted poor countries (HIPC),604060667.318807
+HIC,High income,1112345842.8192
+NOC,High income: nonOECD,90082713.8191999
+OEC,High income: OECD,1022263129
+LCN,Latin America & Caribbean (all income levels),575953982
+LAC,Latin America & Caribbean (developing only),569544813
+LDC,Least developed countries: UN classification,799183357.318807
+LMY,Low & middle income,5625038631.39345
+LIC,Low income,764050335.318807
+LMC,Lower middle income,2442284425.07464
+MEA,Middle East & North Africa (all income levels),367757858.074643
+MNA,Middle East & North Africa (developing only),320030113.074643
+MIC,Middle income,4860988296.07464
+NAC,North America,337477264
+OED,OECD members,1220609610
+OSS,Other small states,17710498
+PSS,Pacific island small states,3236174
+SST,Small states,27748871
+SAS,South Asia,1586690045.31881
+SSF,Sub-Saharan Africa (all income levels),813045030
+SSA,Sub-Saharan Africa (developing only),812382703
+UMC,Upper middle income,2418703871
+WLD,World,6737384474.21265
+AFG,Afghanistan,32517656.3188065
+ALB,Albania,3181397
+DZA,Algeria,34428028
+ASM,American Samoa,66217
+AND,Andorra,82577
+AGO,Angola,18037964
+ATG,Antigua and Barbuda,86881
+ARG,Argentina,39714298
+ARM,Armenia,3079087
+ABW,Aruba,105526
+AUS,Australia,21498500
+AUT,Austria,8336926
+AZE,Azerbaijan,8763400
+BHS,"Bahamas, The",333661
+BHR,Bahrain,1052359
+BGD,Bangladesh,145478300
+BRB,Barbados,272180
+BLR,Belarus,9602000
+BEL,Belgium,10709973
+BLZ,Belize,322100
+BEN,Benin,8355980
+BMU,Bermuda,64200
+BTN,Bhutan,701363
+BOL,Bolivia,9618466
+BIH,Bosnia and Herzegovina,3774164
+BWA,Botswana,1954822
+BRA,Brazil,191543237
+BRN,Brunei Darussalam,384695
+BGR,Bulgaria,7623395
+BFA,Burkina Faso,15515258
+BDI,Burundi,7943385
+KHM,Cambodia,13822644
+CMR,Cameroon,18758778
+CAN,Canada,33319098
+CPV,Cape Verde,487371
+CYM,Cayman Islands,55295
+CAF,Central African Republic,4237961
+TCD,Chad,10653762
+CHI,Channel Islands,151705
+CHL,Chile,16795593
+CHN,China,1324655000
+COL,Colombia,45005782
+COM,Comoros,697034
+COD,"Congo, Dem. Rep.",62474901
+COG,"Congo, Rep.",3836339
+CRI,Costa Rica,4522124
+CIV,Cote d'Ivoire,18987007
+HRV,Croatia,4434000
+CUB,Cuba,11266905
+CUW,Curacao,141279
+CYP,Cyprus,1077001
+CZE,Czech Republic,10424336
+DNK,Denmark,5493621
+DJI,Djibouti,855636
+DMA,Dominica,68159
+DOM,Dominican Republic,9664948
+ECU,Ecuador,14056740
+EGY,"Egypt, Arab Rep.",78323298
+SLV,El Salvador,6129628
+GNQ,Equatorial Guinea,662327
+ERI,Eritrea,4947521
+EST,Estonia,1340675
+ETH,Ethiopia,79446419
+FRO,Faeroe Islands,48597
+FJI,Fiji,843651
+FIN,Finland,5313399
+FRA,France,64188122
+PYF,French Polynesia,264541
+GAB,Gabon,1450310
+GMB,"Gambia, The",1636107
+GEO,Georgia,4383700
+DEU,Germany,82110097
+GHA,Ghana,23264176
+GIB,Gibraltar,29287
+GRC,Greece,11237094
+GRL,Greenland,56328
+GRD,Grenada,103723
+GUM,Guam,175538
+GTM,Guatemala,13690846
+GIN,Guinea,9559110
+GNB,Guinea-Bissau,1453757
+GUY,Guyana,751578
+HTI,Haiti,9736332
+HND,Honduras,7302742
+HKG,"Hong Kong SAR, China",6977700
+HUN,Hungary,10038188
+ISL,Iceland,317414
+IND,India,1190863679
+IDN,Indonesia,234951154
+IRN,"Iran, Islamic Rep.",72289291
+IRQ,Iraq,30178292.1471278
+IRL,Ireland,4425683
+IMN,Isle of Man,81798
+ISR,Israel,7308800
+ITA,Italy,59832179
+JAM,Jamaica,2687200
+JPN,Japan,127704040
+JOR,Jordan,5787000
+KAZ,Kazakhstan,15673999
+KEN,Kenya,38455418
+KIR,Kiribati,96532
+PRK,"Korea, Dem. Rep.",24126329
+KOR,"Korea, Rep.",48607000
+KSV,Kosovo,1795000
+KWT,Kuwait,2548351
+KGZ,Kyrgyz Republic,5318700
+LAO,Lao PDR,6022001
+LVA,Latvia,2266094
+LBN,Lebanon,4166915
+LSO,Lesotho,2127412
+LBR,Liberia,3658460
+LBY,Libya,6149620
+LIE,Liechtenstein,35521
+LTU,Lithuania,3358115
+LUX,Luxembourg,488650
+MAC,"Macao SAR, China",518463
+MKD,"Macedonia, FYR",2052524
+MDG,Madagascar,19546282
+MWI,Malawi,14005113
+MYS,Malaysia,27502008
+MDV,Maldives,307632
+MLI,Mali,14459990
+MLT,Malta,411950
+MHL,Marshall Islands,52880
+MRT,Mauritania,3295254
+MUS,Mauritius,1268565
+MYT,Mayotte,191805
+MEX,Mexico,110627158
+FSM,"Micronesia, Fed. Sts.",110367
+MDA,Moldova,3570107
+MCO,Monaco,35336
+MNG,Mongolia,2667474
+MNE,Montenegro,629185
+MAR,Morocco,31321453
+MOZ,Mozambique,22332900
+MMR,Myanmar,47250315
+NAM,Namibia,2200422
+NPL,Nepal,28905358
+NLD,Netherlands,16445593
+NCL,New Caledonia,243984.819199884
+NZL,New Zealand,4268900
+NIC,Nicaragua,5635577
+NER,Niger,14450007
+NGA,Nigeria,150665730
+MNP,Northern Mariana Islands,62707
+NOR,Norway,4768212
+OMN,Oman,2636963
+PAK,Pakistan,167442258
+PLW,Palau,20228
+PAN,Panama,3406487
+PNG,Papua New Guinea,6549268
+PRY,Paraguay,6230242
+PER,Peru,28463338
+PHL,Philippines,90173139
+POL,Poland,38125759
+PRT,Portugal,10622413
+PRI,Puerto Rico,3954553
+QAT,Qatar,1396060
+ROU,Romania,21513622
+RUS,Russian Federation,141950000
+RWA,Rwanda,10004092
+WSM,Samoa,181809
+SMR,San Marino,31198
+STP,Sao Tome and Principe,159852
+SAU,Saudi Arabia,26166639
+SEN,Senegal,11787123
+SRB,Serbia,7350221
+SYC,Seychelles,86956
+SLE,Sierra Leone,5612129
+SGP,Singapore,4839400
+SXM,Sint Maarten (Dutch part),40459
+SVK,Slovak Republic,5406626
+SVN,Slovenia,2021316
+SLB,Solomon Islands,510221
+SOM,Somalia,8922260
+ZAF,South Africa,48793022
+ESP,Spain,45555716
+LKA,Sri Lanka,20473799
+KNA,St. Kitts and Nevis,51102
+LCA,St. Lucia,170331
+MAF,St. Martin (French part),29376
+VCT,St. Vincent and the Grenadines,109178
+SDN,Sudan,41415151
+SUR,Suriname,515066
+SWZ,Swaziland,1031747
+SWE,Sweden,9219637
+CHE,Switzerland,7647675
+SYR,Syrian Arab Republic,19637775.9275158
+TJK,Tajikistan,6691416
+TZA,Tanzania,42267667
+THA,Thailand,68267982
+TLS,Timor-Leste,1079749
+TGO,Togo,5776837
+TON,Tonga,102910
+TTO,Trinidad and Tobago,1331040
+TUN,Tunisia,10328900
+TUR,Turkey,70923730
+TKM,Turkmenistan,4918396
+TCA,Turks and Caicos Islands,35960
+TUV,Tuvalu,9786
+UGA,Uganda,31339392
+UKR,Ukraine,46258200
+ARE,United Arab Emirates,6206623
+GBR,United Kingdom,61393521
+USA,United States,304093966
+URY,Uruguay,3334052
+UZB,Uzbekistan,27302500
+VUT,Vanuatu,228041
+VEN,"Venezuela, RB",27935000
+VNM,Vietnam,85122300
+VIR,Virgin Islands (U.S.),109840
+PSE,West Bank and Gaza,3937309
+YEM,"Yemen, Rep.",22626595
+ZMB,Zambia,12379612
+ZWE,Zimbabwe,12451543

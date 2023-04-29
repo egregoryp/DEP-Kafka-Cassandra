@@ -1,0 +1,13 @@
+{
+  "type": "record",
+  "name": "customerData",
+  "namespace": "epena simple project",
+  "fields": [
+    {"name": "id","type": ["string", "null"]},
+    {"name": "name","type": ["string", "null"]},
+    {"name": "age","type": ["int", "null"]},
+    {"name": "address","type": ["string", "null"]},
+    {"name": "email","type": ["string", "null"]},
+    {"name": "CreatedTime","type": ["long", "null"]}    
+  ]
+}

@@ -1,0 +1,244 @@
+{"Country Code":"ARB","Country Name":"Arab World","Value":"228934760.903416"}
+{"Country Code":"CSS","Country Name":"Caribbean small states","Value":"5954846"}
+{"Country Code":"EAS","Country Name":"East Asia & Pacific (all income levels)","Value":"1821479249"}
+{"Country Code":"EAP","Country Name":"East Asia & Pacific (developing only)","Value":"1604413745"}
+{"Country Code":"EMU","Country Name":"Euro area","Value":"304792347"}
+{"Country Code":"ECS","Country Name":"Europe & Central Asia (all income levels)","Value":"842442884"}
+{"Country Code":"ECA","Country Name":"Europe & Central Asia (developing only)","Value":"391770177"}
+{"Country Code":"EUU","Country Name":"European Union","Value":"472838945"}
+{"Country Code":"HPC","Country Name":"Heavily indebted poor countries (HIPC)","Value":"374575530"}
+{"Country Code":"HIC","Country Name":"High income","Value":"978972684"}
+{"Country Code":"NOC","Country Name":"High income: nonOECD","Value":"65330767"}
+{"Country Code":"OEC","Country Name":"High income: OECD","Value":"913641917"}
+{"Country Code":"LCN","Country Name":"Latin America & Caribbean (all income levels)","Value":"442065667"}
+{"Country Code":"LAC","Country Name":"Latin America & Caribbean (developing only)","Value":"436563801"}
+{"Country Code":"LDC","Country Name":"Least developed countries: UN classification","Value":"516098379"}
+{"Country Code":"LMY","Country Name":"Low & middle income","Value":"4317705676.90342"}
+{"Country Code":"LIC","Country Name":"Low income","Value":"505093768"}
+{"Country Code":"LMC","Country Name":"Lower middle income","Value":"1776482424.90342"}
+{"Country Code":"MEA","Country Name":"Middle East & North Africa (all income levels)","Value":"253292671.903416"}
+{"Country Code":"MNA","Country Name":"Middle East & North Africa (developing only)","Value":"225408451.903416"}
+{"Country Code":"MIC","Country Name":"Middle income","Value":"3812611908.90342"}
+{"Country Code":"NAC","Country Name":"North America","Value":"277474500"}
+{"Country Code":"OED","Country Name":"OECD members","Value":"1065266608"}
+{"Country Code":"OSS","Country Name":"Other small states","Value":"12565115"}
+{"Country Code":"PSS","Country Name":"Pacific island small states","Value":"2423701"}
+{"Country Code":"SST","Country Name":"Small states","Value":"20943662"}
+{"Country Code":"SAS","Country Name":"South Asia","Value":"1147105918"}
+{"Country Code":"SSF","Country Name":"Sub-Saharan Africa (all income levels)","Value":"512817471"}
+{"Country Code":"SSA","Country Name":"Sub-Saharan Africa (developing only)","Value":"512443584"}
+{"Country Code":"UMC","Country Name":"Upper middle income","Value":"2036129484"}
+{"Country Code":"WLD","Country Name":"World","Value":"5296678360.90342"}
+{"Country Code":"AFG","Country Name":"Afghanistan","Value":"19023678"}
+{"Country Code":"ALB","Country Name":"Albania","Value":"3289483"}
+{"Country Code":"DZA","Country Name":"Algeria","Value":"25299182"}
+{"Country Code":"ASM","Country Name":"American Samoa","Value":"47052"}
+{"Country Code":"AND","Country Name":"Andorra","Value":"52773"}
+{"Country Code":"AGO","Country Name":"Angola","Value":"10335052"}
+{"Country Code":"ATG","Country Name":"Antigua and Barbuda","Value":"62202"}
+{"Country Code":"ARG","Country Name":"Argentina","Value":"32642442"}
+{"Country Code":"ARM","Country Name":"Armenia","Value":"3544695"}
+{"Country Code":"ABW","Country Name":"Aruba","Value":"62147"}
+{"Country Code":"AUS","Country Name":"Australia","Value":"17065100"}
+{"Country Code":"AUT","Country Name":"Austria","Value":"7677850"}
+{"Country Code":"AZE","Country Name":"Azerbaijan","Value":"7159000"}
+{"Country Code":"BHS","Country Name":"Bahamas, The","Value":"256128"}
+{"Country Code":"BHR","Country Name":"Bahrain","Value":"492891"}
+{"Country Code":"BGD","Country Name":"Bangladesh","Value":"105256026"}
+{"Country Code":"BRB","Country Name":"Barbados","Value":"259501"}
+{"Country Code":"BLR","Country Name":"Belarus","Value":"10189000"}
+{"Country Code":"BEL","Country Name":"Belgium","Value":"9967379"}
+{"Country Code":"BLZ","Country Name":"Belize","Value":"189000"}
+{"Country Code":"BEN","Country Name":"Benin","Value":"4773137"}
+{"Country Code":"BMU","Country Name":"Bermuda","Value":"60500"}
+{"Country Code":"BTN","Country Name":"Bhutan","Value":"558500"}
+{"Country Code":"BOL","Country Name":"Bolivia","Value":"6658462"}
+{"Country Code":"BIH","Country Name":"Bosnia and Herzegovina","Value":"4308197"}
+{"Country Code":"BWA","Country Name":"Botswana","Value":"1382371"}
+{"Country Code":"BRA","Country Name":"Brazil","Value":"149650206"}
+{"Country Code":"BRN","Country Name":"Brunei Darussalam","Value":"252125"}
+{"Country Code":"BGR","Country Name":"Bulgaria","Value":"8718289"}
+{"Country Code":"BFA","Country Name":"Burkina Faso","Value":"9323996"}
+{"Country Code":"BDI","Country Name":"Burundi","Value":"5601720"}
+{"Country Code":"KHM","Country Name":"Cambodia","Value":"9531928"}
+{"Country Code":"CMR","Country Name":"Cameroon","Value":"12180819"}
+{"Country Code":"CAN","Country Name":"Canada","Value":"27791000"}
+{"Country Code":"CPV","Country Name":"Cape Verde","Value":"348165"}
+{"Country Code":"CYM","Country Name":"Cayman Islands","Value":"26048"}
+{"Country Code":"CAF","Country Name":"Central African Republic","Value":"2934777"}
+{"Country Code":"TCD","Country Name":"Chad","Value":"6011224"}
+{"Country Code":"CHI","Country Name":"Channel Islands","Value":"140137"}
+{"Country Code":"CHL","Country Name":"Chile","Value":"13187821"}
+{"Country Code":"CHN","Country Name":"China","Value":"1135185000"}
+{"Country Code":"COL","Country Name":"Colombia","Value":"33203321"}
+{"Country Code":"COM","Country Name":"Comoros","Value":"437876"}
+{"Country Code":"COD","Country Name":"Congo, Dem. Rep.","Value":"36406226"}
+{"Country Code":"COG","Country Name":"Congo, Rep.","Value":"2388902"}
+{"Country Code":"CRI","Country Name":"Costa Rica","Value":"3070240"}
+{"Country Code":"CIV","Country Name":"Cote d'Ivoire","Value":"12517730"}
+{"Country Code":"HRV","Country Name":"Croatia","Value":"4780000"}
+{"Country Code":"CUB","Country Name":"Cuba","Value":"10570328"}
+{"Country Code":"CYP","Country Name":"Cyprus","Value":"766663"}
+{"Country Code":"CZE","Country Name":"Czech Republic","Value":"10333355"}
+{"Country Code":"DNK","Country Name":"Denmark","Value":"5140939"}
+{"Country Code":"DJI","Country Name":"Djibouti","Value":"562290"}
+{"Country Code":"DMA","Country Name":"Dominica","Value":"70926"}
+{"Country Code":"DOM","Country Name":"Dominican Republic","Value":"7194666"}
+{"Country Code":"ECU","Country Name":"Ecuador","Value":"10260587"}
+{"Country Code":"EGY","Country Name":"Egypt, Arab Rep.","Value":"56843275"}
+{"Country Code":"SLV","Country Name":"El Salvador","Value":"5332842"}
+{"Country Code":"GNQ","Country Name":"Equatorial Guinea","Value":"373887"}
+{"Country Code":"ERI","Country Name":"Eritrea","Value":"3158295"}
+{"Country Code":"EST","Country Name":"Estonia","Value":"1569174"}
+{"Country Code":"ETH","Country Name":"Ethiopia","Value":"48333261"}
+{"Country Code":"FRO","Country Name":"Faeroe Islands","Value":"47558"}
+{"Country Code":"FJI","Country Name":"Fiji","Value":"728390"}
+{"Country Code":"FIN","Country Name":"Finland","Value":"4986431"}
+{"Country Code":"FRA","Country Name":"France","Value":"58183174"}
+{"Country Code":"PYF","Country Name":"French Polynesia","Value":"195383"}
+{"Country Code":"GAB","Country Name":"Gabon","Value":"929044"}
+{"Country Code":"GMB","Country Name":"Gambia, The","Value":"966151"}
+{"Country Code":"GEO","Country Name":"Georgia","Value":"4802000"}
+{"Country Code":"DEU","Country Name":"Germany","Value":"79433029"}
+{"Country Code":"GHA","Country Name":"Ghana","Value":"14793415"}
+{"Country Code":"GIB","Country Name":"Gibraltar","Value":"26830"}
+{"Country Code":"GRC","Country Name":"Greece","Value":"10156902"}
+{"Country Code":"GRL","Country Name":"Greenland","Value":"55600"}
+{"Country Code":"GRD","Country Name":"Grenada","Value":"96200"}
+{"Country Code":"GUM","Country Name":"Guam","Value":"133914"}
+{"Country Code":"GTM","Country Name":"Guatemala","Value":"8923131"}
+{"Country Code":"GIN","Country Name":"Guinea","Value":"5759374"}
+{"Country Code":"GNB","Country Name":"Guinea-Bissau","Value":"1016695"}
+{"Country Code":"GUY","Country Name":"Guyana","Value":"724931"}
+{"Country Code":"HTI","Country Name":"Haiti","Value":"7124877"}
+{"Country Code":"HND","Country Name":"Honduras","Value":"4889311"}
+{"Country Code":"HKG","Country Name":"Hong Kong SAR, China","Value":"5704500"}
+{"Country Code":"HUN","Country Name":"Hungary","Value":"10373988"}
+{"Country Code":"ISL","Country Name":"Iceland","Value":"254826"}
+{"Country Code":"IND","Country Name":"India","Value":"873785449"}
+{"Country Code":"IDN","Country Name":"Indonesia","Value":"184345939"}
+{"Country Code":"IRN","Country Name":"Iran, Islamic Rep.","Value":"54870583"}
+{"Country Code":"IRQ","Country Name":"Iraq","Value":"18194212.5"}
+{"Country Code":"IRL","Country Name":"Ireland","Value":"3513974"}
+{"Country Code":"IMN","Country Name":"Isle of Man","Value":"70313"}
+{"Country Code":"ISR","Country Name":"Israel","Value":"4660000"}
+{"Country Code":"ITA","Country Name":"Italy","Value":"56719240"}
+{"Country Code":"JAM","Country Name":"Jamaica","Value":"2390000"}
+{"Country Code":"JPN","Country Name":"Japan","Value":"123537000"}
+{"Country Code":"JOR","Country Name":"Jordan","Value":"3170000"}
+{"Country Code":"KAZ","Country Name":"Kazakhstan","Value":"16348000"}
+{"Country Code":"KEN","Country Name":"Kenya","Value":"23447177"}
+{"Country Code":"KIR","Country Name":"Kiribati","Value":"71845"}
+{"Country Code":"PRK","Country Name":"Korea, Dem. Rep.","Value":"20143212"}
+{"Country Code":"KOR","Country Name":"Korea, Rep.","Value":"42869000"}
+{"Country Code":"KSV","Country Name":"Kosovo","Value":"1862000"}
+{"Country Code":"KWT","Country Name":"Kuwait","Value":"2087687"}
+{"Country Code":"KGZ","Country Name":"Kyrgyz Republic","Value":"4391100"}
+{"Country Code":"LAO","Country Name":"Lao PDR","Value":"4192414"}
+{"Country Code":"LVA","Country Name":"Latvia","Value":"2663151"}
+{"Country Code":"LBN","Country Name":"Lebanon","Value":"2948372"}
+{"Country Code":"LSO","Country Name":"Lesotho","Value":"1639177"}
+{"Country Code":"LBR","Country Name":"Liberia","Value":"2127098"}
+{"Country Code":"LBY","Country Name":"Libya","Value":"4334459"}
+{"Country Code":"LIE","Country Name":"Liechtenstein","Value":"28986"}
+{"Country Code":"LTU","Country Name":"Lithuania","Value":"3697838"}
+{"Country Code":"LUX","Country Name":"Luxembourg","Value":"381850"}
+{"Country Code":"MAC","Country Name":"Macao SAR, China","Value":"359709"}
+{"Country Code":"MKD","Country Name":"Macedonia, FYR","Value":"1909353"}
+{"Country Code":"MDG","Country Name":"Madagascar","Value":"11280625"}
+{"Country Code":"MWI","Country Name":"Malawi","Value":"9380892"}
+{"Country Code":"MYS","Country Name":"Malaysia","Value":"18208562"}
+{"Country Code":"MDV","Country Name":"Maldives","Value":"219474"}
+{"Country Code":"MLI","Country Name":"Mali","Value":"8672868"}
+{"Country Code":"MLT","Country Name":"Malta","Value":"354170"}
+{"Country Code":"MHL","Country Name":"Marshall Islands","Value":"47288"}
+{"Country Code":"MRT","Country Name":"Mauritania","Value":"1995548"}
+{"Country Code":"MUS","Country Name":"Mauritius","Value":"1058775"}
+{"Country Code":"MYT","Country Name":"Mayotte","Value":"92413"}
+{"Country Code":"MEX","Country Name":"Mexico","Value":"84306602"}
+{"Country Code":"FSM","Country Name":"Micronesia, Fed. Sts.","Value":"96319"}
+{"Country Code":"MDA","Country Name":"Moldova","Value":"3696000"}
+{"Country Code":"MCO","Country Name":"Monaco","Value":"30896"}
+{"Country Code":"MNG","Country Name":"Mongolia","Value":"2192553"}
+{"Country Code":"MNE","Country Name":"Montenegro","Value":"608816"}
+{"Country Code":"MAR","Country Name":"Morocco","Value":"24781105"}
+{"Country Code":"MOZ","Country Name":"Mozambique","Value":"13547076"}
+{"Country Code":"MMR","Country Name":"Myanmar","Value":"39268304"}
+{"Country Code":"NAM","Country Name":"Namibia","Value":"1414830"}
+{"Country Code":"NPL","Country Name":"Nepal","Value":"19081064"}
+{"Country Code":"NLD","Country Name":"Netherlands","Value":"14951510"}
+{"Country Code":"NCL","Country Name":"New Caledonia","Value":"168000"}
+{"Country Code":"NZL","Country Name":"New Zealand","Value":"3448000"}
+{"Country Code":"NIC","Country Name":"Nicaragua","Value":"4120797"}
+{"Country Code":"NER","Country Name":"Niger","Value":"7788198"}
+{"Country Code":"NGA","Country Name":"Nigeria","Value":"97552057"}
+{"Country Code":"MNP","Country Name":"Northern Mariana Islands","Value":"43973"}
+{"Country Code":"NOR","Country Name":"Norway","Value":"4241473"}
+{"Country Code":"OMN","Country Name":"Oman","Value":"1868055"}
+{"Country Code":"PAK","Country Name":"Pakistan","Value":"111844679"}
+{"Country Code":"PLW","Country Name":"Palau","Value":"15089"}
+{"Country Code":"PAN","Country Name":"Panama","Value":"2415926"}
+{"Country Code":"PNG","Country Name":"Papua New Guinea","Value":"4157654"}
+{"Country Code":"PRY","Country Name":"Paraguay","Value":"4243860"}
+{"Country Code":"PER","Country Name":"Peru","Value":"21685537"}
+{"Country Code":"PHL","Country Name":"Philippines","Value":"61628668"}
+{"Country Code":"POL","Country Name":"Poland","Value":"38110782"}
+{"Country Code":"PRT","Country Name":"Portugal","Value":"9983218"}
+{"Country Code":"PRI","Country Name":"Puerto Rico","Value":"3537000"}
+{"Country Code":"QAT","Country Name":"Qatar","Value":"473722"}
+{"Country Code":"ROU","Country Name":"Romania","Value":"23201835"}
+{"Country Code":"RUS","Country Name":"Russian Federation","Value":"148292000"}
+{"Country Code":"RWA","Country Name":"Rwanda","Value":"7109538"}
+{"Country Code":"WSM","Country Name":"Samoa","Value":"161308"}
+{"Country Code":"SMR","Country Name":"San Marino","Value":"24134"}
+{"Country Code":"STP","Country Name":"Sao Tome and Principe","Value":"116117"}
+{"Country Code":"SAU","Country Name":"Saudi Arabia","Value":"16139053"}
+{"Country Code":"SEN","Country Name":"Senegal","Value":"7241573"}
+{"Country Code":"SRB","Country Name":"Serbia","Value":"7586000"}
+{"Country Code":"SYC","Country Name":"Seychelles","Value":"70000"}
+{"Country Code":"SLE","Country Name":"Sierra Leone","Value":"3981567"}
+{"Country Code":"SGP","Country Name":"Singapore","Value":"3047000"}
+{"Country Code":"SVK","Country Name":"Slovak Republic","Value":"5299187"}
+{"Country Code":"SVN","Country Name":"Slovenia","Value":"1998161"}
+{"Country Code":"SLB","Country Name":"Solomon Islands","Value":"309527"}
+{"Country Code":"SOM","Country Name":"Somalia","Value":"6599249"}
+{"Country Code":"ZAF","Country Name":"South Africa","Value":"35200000"}
+{"Country Code":"ESP","Country Name":"Spain","Value":"38850435"}
+{"Country Code":"LKA","Country Name":"Sri Lanka","Value":"17337048"}
+{"Country Code":"KNA","Country Name":"St. Kitts and Nevis","Value":"42025"}
+{"Country Code":"LCA","Country Name":"St. Lucia","Value":"134100"}
+{"Country Code":"MAF","Country Name":"St. Martin (French part)","Value":"30036"}
+{"Country Code":"VCT","Country Name":"St. Vincent and the Grenadines","Value":"107449"}
+{"Country Code":"SDN","Country Name":"Sudan","Value":"26494169"}
+{"Country Code":"SUR","Country Name":"Suriname","Value":"406890"}
+{"Country Code":"SWZ","Country Name":"Swaziland","Value":"862947"}
+{"Country Code":"SWE","Country Name":"Sweden","Value":"8558835"}
+{"Country Code":"CHE","Country Name":"Switzerland","Value":"6715519"}
+{"Country Code":"SYR","Country Name":"Syrian Arab Republic","Value":"12324116"}
+{"Country Code":"TJK","Country Name":"Tajikistan","Value":"5303152"}
+{"Country Code":"TZA","Country Name":"Tanzania","Value":"25478979"}
+{"Country Code":"THA","Country Name":"Thailand","Value":"57072058"}
+{"Country Code":"TLS","Country Name":"Timor-Leste","Value":"743145"}
+{"Country Code":"TGO","Country Name":"Togo","Value":"3665509"}
+{"Country Code":"TON","Country Name":"Tonga","Value":"95150"}
+{"Country Code":"TTO","Country Name":"Trinidad and Tobago","Value":"1215494"}
+{"Country Code":"TUN","Country Name":"Tunisia","Value":"8154400"}
+{"Country Code":"TUR","Country Name":"Turkey","Value":"54130268"}
+{"Country Code":"TKM","Country Name":"Turkmenistan","Value":"3668000"}
+{"Country Code":"TCA","Country Name":"Turks and Caicos Islands","Value":"11549"}
+{"Country Code":"TUV","Country Name":"Tuvalu","Value":"9004"}
+{"Country Code":"UGA","Country Name":"Uganda","Value":"17699717"}
+{"Country Code":"UKR","Country Name":"Ukraine","Value":"51892000"}
+{"Country Code":"ARE","Country Name":"United Arab Emirates","Value":"1808642"}
+{"Country Code":"GBR","Country Name":"United Kingdom","Value":"57247586"}
+{"Country Code":"USA","Country Name":"United States","Value":"249623000"}
+{"Country Code":"URY","Country Name":"Uruguay","Value":"3109122"}
+{"Country Code":"UZB","Country Name":"Uzbekistan","Value":"20510000"}
+{"Country Code":"VUT","Country Name":"Vanuatu","Value":"146636"}
+{"Country Code":"VEN","Country Name":"Venezuela, RB","Value":"19750000"}
+{"Country Code":"VNM","Country Name":"Vietnam","Value":"66016700"}
+{"Country Code":"VIR","Country Name":"Virgin Islands (U.S.)","Value":"103963"}
+{"Country Code":"PSE","Country Name":"West Bank and Gaza","Value":"1978248.4034158"}
+{"Country Code":"YEM","Country Name":"Yemen, Rep.","Value":"11948209"}
+{"Country Code":"ZMB","Country Name":"Zambia","Value":"7860053"}
+{"Country Code":"ZWE","Country Name":"Zimbabwe","Value":"10469202"}

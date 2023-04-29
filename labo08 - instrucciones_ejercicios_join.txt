@@ -1,0 +1,30 @@
+ingresar al archivo %SpARK_HOME%\cond\spark-defaults.conf
+En la sentencia spark.jars.packages adicionar com.datastax.spark:spark-cassandra-connector_2.12:3.0.0-beta
+
+Ir a la web https://downloads.datastax.com/#desktop
+Descargar DataStax Desktop para el sistema operativo que corresponda
+
+Instalar la aplicacion
+
+crear el stack
+
+ingresar a la consola e ingresar las sentencias del script cassandra.cql
+
+Las siguientes sentencias se ejecutan cada una en una consola cmd con privilegios de administrador. No cerrar las respectivas ventanas
+
+%KAFKA_HOME%/bin/windows/zookeeper-server-start.bat %KAFKA_HOME%/config/zookeeper.properties
+
+%KAFKA_HOME%/bin/windows/kafka-server-start.bat %KAFKA_HOME%/config/server.properties
+
+La siguientes sentencia se ejecuta en una consola cmd que no necesariamente debe tener privilegios de administrador
+%KAFKA_HOME%/bin/windows/kafka-topics.bat --bootstrap-server localhost:9092 --topic impressions --create --partitions 1 --replication-factor 1
+%KAFKA_HOME%/bin/windows/kafka-topics.bat --bootstrap-server localhost:9092 --topic clicks --create --partitions 1 --replication-factor 1
+
+
+Ejecutar cada sentencia en una consola cmd independiente
+%KAFKA_HOME%/bin/windows/kafka-console-producer.bat --broker-list localhost:9092 --topic impressions
+%KAFKA_HOME%/bin/windows/kafka-console-producer.bat --broker-list localhost:9092 --topic clicks
+
+
+
+

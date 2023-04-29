@@ -1,0 +1,2 @@
+Descargar de https://nmap.org/download.html
+Ejecutar en una ventana de comandos: ncat -lk 9999

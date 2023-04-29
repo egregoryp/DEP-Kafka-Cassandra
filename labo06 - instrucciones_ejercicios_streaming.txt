@@ -1,0 +1,18 @@
+Las siguientes sentencias se ejecutan cada una en una consola cmd con privilegios de administrador. No cerrar las respectivas ventanas
+
+%KAFKA_HOME%/bin/windows/zookeeper-server-start.bat %KAFKA_HOME%/config/zookeeper.properties
+
+%KAFKA_HOME%/bin/windows/kafka-server-start.bat %KAFKA_HOME%/config/server.properties
+
+La siguientes sentencia se ejecuta en una consola cmd que no necesariamente debe tener privilegios de administrador
+%KAFKA_HOME%/bin/windows/kafka-topics.bat --bootstrap-server localhost:9092 --topic invoices --create --partitions 1 --replication-factor 1
+
+En la misma ventana de la anterior ejecutar la sentencia para iniciar el producer
+%KAFKA_HOME%/bin/windows/kafka-console-producer.bat --broker-list localhost:9092 --topic invoices
+
+La siguientes sentencia se ejecuta en una consola cmd que no necesariamente debe tener privilegios de administrador
+%KAFKA_HOME%/bin/windows/kafka-topics.bat --bootstrap-server localhost:9092 --topic invoice-items --create --partitions 1 --replication-factor 1
+%KAFKA_HOME%/bin/windows/kafka-topics.bat --bootstrap-server localhost:9092 --topic customer-rewards --create --partitions 1 --replication-factor 1
+
+En una ventana cmd nueva ejecutar la sentencia para iniciar el consumer
+%KAFKA_HOME%/bin/windows/kafka-console-consumer.bat --topic customer-rewards --from-beginning --bootstrap-server localhost:9092
